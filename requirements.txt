@@ -47,7 +47,7 @@ pyobjc-framework-Social==2.5.1
 pyobjc-framework-SyncServices==2.5.1
 pyobjc-framework-SystemConfiguration==2.5.1
 pyobjc-framework-WebKit==2.5.1
-pyOpenSSL==0.13.1
+pyOpenSSL==17.5.0
 pyparsing==2.4.0
 python-constraint==1.4.0
 python-dateutil==2.8.0
